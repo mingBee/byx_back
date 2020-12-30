@@ -1,0 +1,9 @@
+
+node_modules
+
+# Log files
+
+# Editor directories and files
+
+.vscode
+public
